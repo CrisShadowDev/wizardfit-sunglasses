@@ -1,0 +1,36 @@
+{
+  "store": "WizardFit Eyewear \u2014 Luxury Sunglasses",
+  "tier": "Semi-fast: $100-800 profit tier planning, premium pricing",
+  "products": [
+    {
+      "name": "Chrome Dragon Aviator",
+      "desc": "Polarized UV400, chrome frame, logo stamped on arm.",
+      "price_planning": "$189"
+    },
+    {
+      "name": "Neon Night Cat-Eye",
+      "desc": "Black frame, neon chrome accents, polarized lenses.",
+      "price_planning": "$165"
+    },
+    {
+      "name": "Phantom Gold Wayfarer",
+      "desc": "Gold chrome, polarized UV400, premium case.",
+      "price_planning": "$219"
+    },
+    {
+      "name": "Trippy Holographic Round",
+      "desc": "Holographic frame, UV400, pouch + box.",
+      "price_planning": "$149"
+    },
+    {
+      "name": "Midnight Chrome Sport",
+      "desc": "Lightweight sport frame, polarized, anti-slip.",
+      "price_planning": "$175"
+    },
+    {
+      "name": "Wizard Reserve Limited",
+      "desc": "Limited drop, numbered case, premium packaging.",
+      "price_planning": "$349"
+    }
+  ]
+}
